@@ -4,19 +4,19 @@ A dashboard containing sentiment analysis of covid tweets created by employing m
 
 ## REQUIREMENTS
 
-Twint-for gathering tweets
+**twint**-for gathering tweets
 
 ```pip install twint```
 
-nest_asyncio-to be installed along with twint
+**nest_asyncio**-to be installed along with twint
 
 ```pip install nest_asyncio```
 
-flask(advised to be installed in virtual environment)
+**flask**(advised to be installed in virtual environment)
 
 ```pip install flask```
 
-Sqlite3(skip if using anaconda)
+**sqlite3**(skip if using anaconda)
 
 ```pip install sqlite```
 
