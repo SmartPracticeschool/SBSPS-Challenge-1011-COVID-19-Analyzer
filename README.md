@@ -19,9 +19,13 @@ Sqlite3(skip if using anaconda)
 ## STEPS
 
 1.Download the above mentioned requirements
+
 2.Clone the repository
+
 3.Transfer the files to a virtual environment containing flask
+
 4.Run the Hello.py file
+
 5.A website containing statistical information about the covid 19 tweets will be displayed
 
 ## ABOUT COVID ANALYZER
